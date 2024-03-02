@@ -3,3 +3,6 @@ gui/
 esa-snap/
 tiles/
 data/
+images/
+.ipynb_checkpoints/
+__pycache__/
